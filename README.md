@@ -42,12 +42,14 @@
 
 
 
-![EmranCo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmranCo&show_icons=true&theme=radical) <a href="https://github.com/EmranCo/github-readme-stats"><img alt="EmranCo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmranCo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
+![EmranCo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmranCo&show_icons=true&theme=radical) 
+<a href="https://github.com/EmranCo/github-readme-stats">
+<img alt="EmranCo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emranco&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=emranco&theme=gruvbox&hide_border=true" /> 
+</a>
+<br>
 
-
-
-
+[![EmranCo Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=emranco&custom_title=EmranCo%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://curative-plateform.herokuapp.com)
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> 
