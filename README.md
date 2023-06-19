@@ -49,7 +49,7 @@
 </a>
 <br>
 
-[![EmranCo Trips' Activity Graph](https://activity-graph.gihub.com/graph?username=emranco&custom_title=EmranCo%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/)
+[![EmranCo Trips' Activity Graph](https://activity-graph.gihub.com/emranco?username=emranco&custom_title=EmranCo%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/emranco)
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> 
