@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Emran Alhaddad </h1>
-<h3 align="center">Software Engineer & Backend Developer.</h3>
- <p> <em>Don't settle for less than you deserve
+<h3 align="center">Backend Developer & System Analyst.</h3>
+ <p> <em>Do what you love for what you love
 😎💯</em></p>
 <br>
 <hr>
 <br>
 <br>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=emranco&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=emran-alhaddad&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 <br>
 
 <p>
- <img src="https://github.com/EmranCo/EmranCo/blob/main/animation_500_kxa883sd.gif" alt="EmranCo" />
+ <img src="https://github.com/emran-alhaddad/emran-alhaddad/blob/main/animation_500_kxa883sd.gif" alt="EmranCo" />
 </p>
 
 
@@ -24,11 +24,11 @@
 
 - :heart: Team works , Open Source Software 
 
-- 💭 looking forward to be a **Google** Developer 💪🤩
+- 💭 looking forward to be a **AI** Developer 💪🤩
 
 
 
-- 📫 How to reach me **alhaddademran@gmail.com**
+- 📫 How to reach me **emran.alhaddad.dev@gmail.com**
 
 <br>
 
@@ -42,19 +42,19 @@
 
 
 
-![EmranCo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmranCo&show_icons=true&theme=radical) 
-<a href="https://github.com/EmranCo/github-readme-stats">
-<img alt="EmranCo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emranco&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=emranco&theme=gruvbox&hide_border=true" /> 
+![emran-alhaddad's GitHub stats](https://github-readme-stats.vercel.app/api?username=emran-alhaddad&show_icons=true&theme=radical) 
+<a href="https://github.com/emran-alhaddad/github-readme-stats">
+<img alt="emran-alhaddad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-alhaddad&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=emran-alhaddad&theme=gruvbox&hide_border=true" /> 
 </a>
 <br>
 
-[![EmranCo Trips' Activity Graph](https://activity-graph.gihub.com/emranco?username=emranco&custom_title=EmranCo%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/emranco)
+[![emran-alhaddad Trips' Activity Graph](https://activity-graph.gihub.com/emran-alhaddad?username=emran-alhaddad&custom_title=emran-alhaddad%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/emran-alhaddad)
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> 
-<a href="https://github.com/emranco/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=emranco&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> 
+<a href="https://github.com/emran-alhaddad/github-profile-trophy"><img
+      src="https://github-profile-trophy.vercel.app/?username=emran-alhaddaf&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> 
 </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
@@ -82,13 +82,13 @@
  <a href="https://wa.me/967770774255" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="EmranCo" height="30" width="40" /></a> 
-  <a href="https://www.linkedin.com/in/emran-alhaddad-859523225" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/emran-alhaddad" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="EmranCo" height="30" width="40" /></a> 
-  <a href="https://www.facebook.com/profile.php?id=100007355978197" target="blank"><img align="center"
+  <a href="https://www.facebook.com/emran-alhaddad" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="EmranCo" height="30" width="40" /></a> 
- <a href="https://twitter.com/EngEmranAli1/" target="blank"><img align="center"
+ <a href="https://twitter.com/emran_alhaddad/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="EmranCo" height="30" width="40" /></a> 
 </p>
