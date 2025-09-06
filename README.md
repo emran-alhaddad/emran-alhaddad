@@ -1,96 +1,100 @@
-<h1 align="center">Hi 👋, I'm Emran Alhaddad </h1>
-<h3 align="center">Backend Developer & System Analyst.</h3>
- <p> <em>Do what you love for what you love
-😎💯</em></p>
-<br>
-<hr>
-<br>
-<br>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=emran-alhaddad&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-<br>
-
-<p>
- <img src="https://github.com/emran-alhaddad/emran-alhaddad/blob/main/animation_500_kxa883sd.gif" alt="EmranCo" />
+<p align="center">
+  <img src="assets/tech-background.png" alt="Abstract technology background" width="100%"/>
 </p>
 
+# Emran Alhaddad
 
-- 💻 I am working as **Problem Solver & System Analyst & Backend Developer** 
+### Technical Project Manager & Senior Backend Engineer
 
-- 🕵️‍♂️ Interested in **Problem Solving** 
-
-- :seedling: Currently work to be **Full Stack Developer** 
-
-- :heart: Team works , Open Source Software 
-
-- 💭 looking forward to be a **AI** Developer 💪🤩
-
-
-
-- 📫 How to reach me **emran.alhaddad.dev@gmail.com**
-
-<br>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-## 📊 Github status
-
-
-
-![emran-alhaddad's GitHub stats](https://github-readme-stats.vercel.app/api?username=emran-alhaddad&show_icons=true&theme=radical) 
-<a href="https://github.com/emran-alhaddad/github-readme-stats">
-<img alt="emran-alhaddad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-alhaddad&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=emran-alhaddad&theme=gruvbox&hide_border=true" /> 
-</a>
-<br>
-
-[![emran-alhaddad Trips' Activity Graph](https://activity-graph.gihub.com/emran-alhaddad?username=emran-alhaddad&custom_title=emran-alhaddad%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/emran-alhaddad)
-<br>
-<h3>Trophies :-</h3>
-<p align="left"> 
-<a href="https://github.com/emran-alhaddad/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=emran-alhaddaf&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> 
+<p align="center">
+<em>Crafting secure, scalable software and leading high‑impact teams across energy, finance, healthcare and logistics.</em>
 </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## About Me
 
+I'm a Jeddah‑based **Technical Project Manager & Senior Backend Engineer** with a track record of delivering high‑performance systems for enterprise clients.  My expertise spans backend development, API architecture, cloud infrastructure, DevOps and project management.  At
+[Brackets Technology](https://brackets-tech.com) I design scalable backend architectures for energy, banking, logistics and industrial sectors; develop GraphQL and RESTful APIs to improve data efficiency; and lead cloud migration and CI/CD automation using Docker, Kubernetes and AWS.  My role also includes coordinating front‑end, UX and system teams and driving security and performance improvements across multiple projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+Prior to that, I served as a **Senior Backend Developer at Otek** where I built and optimized backend architectures for more than twenty enterprise applications, delivering secure API solutions for fintech, logistics and e‑commerce platforms, improving database performance by 40 % and automating 40 % of backend processes.  Since 2020 I've also worked as a freelance full‑stack developer, designing custom SaaS and fintech solutions, developing scalable RESTful and GraphQL APIs and leading cloud deployments using AWS, DigitalOcean and Kubernetes.
 
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="20" height="20"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="20" height="20"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20" /> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20" /> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20" /> </code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20" /> </code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="20" height="20"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="20" height="20"></code>
-</p>
-<br>
+I hold a **Bachelor of Software Engineering** from Taiz University (GPA 3.7, 2021) and a **Full Stack Web Development certification** from ROWAD Coding Academy.  I'm fluent in Arabic and have professional working proficiency in English.
 
+## Core Skills & Expertise
 
-<h3 align="left">Connect with me:</h3>
+| Category             | Technologies & Tools                                     |
+|---------------------|-----------------------------------------------------------|
+| **Backend**         | Laravel, PHP, Node.js                                     |
+| **API Development** | GraphQL, RESTful, API Gateway                              |
+| **DevOps & Cloud**  | AWS, DigitalOcean, Docker, Kubernetes, CI/CD              |
+| **Databases**       | MySQL, PostgreSQL, MongoDB                                |
+| **Project Mgmt.**   | Agile, Scrum, SDLC, Jira                                  |
+| **Performance & Security** | Query optimisation, caching, API security            |
+
+### Tech Stack & Tools
+
 <p align="left">
-   
- <a href="https://wa.me/967770774255" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-      alt="EmranCo" height="30" width="40" /></a> 
-  <a href="https://www.linkedin.com/in/emran-alhaddad" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="EmranCo" height="30" width="40" /></a> 
-  <a href="https://www.facebook.com/emran-alhaddad" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="EmranCo" height="30" width="40" /></a> 
- <a href="https://twitter.com/emran_alhaddad/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="EmranCo" height="30" width="40" /></a> 
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" width="20" height="20" alt="Laravel icon"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="20" height="20" alt="PHP icon"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="20" height="20" alt="MySQL icon"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20" alt="Node.js icon"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="20" height="20" alt="Pandas icon"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" alt="Python icon"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="20" height="20" alt="MongoDB icon"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="20" height="20" alt="Vue icon"/></code>
 </p>
 
-<br>
+## Experience Highlights
+
+- **Energy & industrial sector solutions –** designed and optimized backend architectures and APIs for clients such as *Luberef (Saudi Aramco Base Oil)*, *TotalEnergies KSA*, *Jeddah Historic District* and *Hadeed (SABIC)*, focusing on data management, corporate content and high‑traffic public portals.
+- **Banking & finance platforms –** developed secure platforms for Saudi banks and the Bayanat Platform (financial data submission system), providing secure data handling, API integration and automated processing.
+- **Logistics & e‑commerce systems –** built inventory and service management APIs for *Juffali Trucks* and *Connect Unlocker* and improved query performance and caching for multiple e‑commerce clients.
+- **High‑traffic event applications –** engineered a backend for the *Sand & Fun Airshow 2024* capable of handling over **100,000 concurrent visitors**.
+
+## Open Source Projects
+
+I maintain and contribute to several open‑source projects.  Here are a few of the most notable repositories on my GitHub profile.
+
+| Repository | ⭐ Stars | Description |
+|-----------|:------:|------------|
+| **[Saudi Riyal Font](https://github.com/emran-alhaddad/Saudi-Riyal-Font)** | **96**:contentReference[oaicite:14]{index=14} | Open‑source font providing the Saudi Riyal currency symbol.  It works across Windows, macOS, Linux, web and mobile platforms and includes `.woff`, `.woff2` and `.ttf` formats:contentReference[oaicite:15]{index=15}.  Features include a private Unicode code point, NPM package, CDN hosting and a permissive OFL license:contentReference[oaicite:16]{index=16}. |
+| **[Pharmacy Near Me](https://github.com/emran-alhaddad/Pharmacy_Near_Me)** | **5**:contentReference[oaicite:17]{index=17} | Open‑source Laravel project that emphasises clean code and workflow conventions.  The README outlines commit types such as `add` (new feature), `fix` (bug fix) and `refactor`, and specifies naming conventions for controllers, routes, models, tables and methods:contentReference[oaicite:18]{index=18}.  It also documents RESTful routes and function names for CRUD operations:contentReference[oaicite:19]{index=19}. |
+| **[Smart Image Hotspots](https://github.com/emran-alhaddad/smart-image-hotspots)** | **4**:contentReference[oaicite:20]{index=20} | Statamic addon that lets you add hotspots to images and save their positions in percentages.  It supports SVG images, provides Antlers tags for templates and includes GraphQL support to query hotspot data:contentReference[oaicite:21]{index=21}. |
+
+<p><em>Star counts are as of September 2025 and reflect the public GitHub statistics for each project.</em></p>
+
+## Get in Touch
+
+I'm always open to new opportunities, collaborations and contributions.  Feel free to reach out via the following channels:
+
+- **Email:** [emran.alhaddad.dev@gmail.com](mailto:emran.alhaddad.dev@gmail.com)
+- **LinkedIn:** [linkedin.com/in/emran-alhaddad](https://linkedin.com/in/emran-alhaddad)
+- **Twitter/X:** [@emran_alhaddad](https://twitter.com/emran_alhaddad)
+- **GitHub:** [emran‑alhaddad](https://github.com/emran-alhaddad)
+
+## GitHub Statistics & Insights
+
+Dynamic widgets transform your profile into a living résumé.  Tools like `github-readme-stats` let you display contributions, stars, forks and language usage directly in Markdown:contentReference[oaicite:24]{index=24}, while `github-readme-activity-graph` visualises your activity over the last 31 days.  The GitHub Readme Streak Stats and Profile Trophy widgets show your current contribution streak and highlight your ranking across metrics:contentReference[oaicite:26]{index=26}.
+
+<p align="center">
+  <!-- Overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=emran-alhaddad&show_icons=true&theme=radical&border_radius=6" alt="GitHub Stats" height="175"/>
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-alhaddad&langs_count=8&layout=compact&theme=radical&border_radius=6" alt="Top Languages" height="175"/>
+  <br/>
+  <!-- Contribution streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emran-alhaddad&theme=gruvbox&border_radius=6" alt="GitHub Streak" height="150"/>
+  <br/>
+  <!-- Activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emran-alhaddad&theme=react-dark&custom_title=My%20GitHub%20Activity" alt="GitHub Activity Graph"/>
+  <br/>
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=emran-alhaddad&theme=gruvbox&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
+</p>
+
+## How I Work
+
+I follow clean architecture and SOLID principles, keeping controllers slim and business logic encapsulated in services and repositories.  My workflows emphasise **continuous integration**, **automated testing** and **code reviews**.  When leading a project I encourage collaboration, clear communication and knowledge sharing.
+
+## Final Thoughts
+
+Open‑source allows us to give back to the community.  If you use any of my projects, please consider ⭐ starring the repository, submitting issues or contributing improvements.  I’m excited to continue building innovative tools and collaborating with developers around the world.
