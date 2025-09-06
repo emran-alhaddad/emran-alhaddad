@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tech-background.png" alt="Abstract technology background" width="100%"/>
+  <img src="assets/tech-background-2.png" alt="Abstract technology background" width="100%"/>
 </p>
 
 # Emran Alhaddad
