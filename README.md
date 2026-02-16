@@ -6,7 +6,7 @@
 
 ### Technical Project Manager & Senior Backend Engineer
 
-<p align="center">
+<p style="color:teal">
 <em><b>Building Enterprise Solutions That Scale<b></em>
 </p>
 
