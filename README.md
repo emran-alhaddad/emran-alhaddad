@@ -7,7 +7,7 @@
 ### Technical Project Manager & Senior Backend Engineer
 
 <p align="center">
-<em>Crafting secure, scalable software and leading high‑impact teams across energy, finance, healthcare and logistics.</em>
+<em><b>Building Enterprise Solutions That Scale<b></em>
 </p>
 
 ## About Me
