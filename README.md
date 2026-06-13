@@ -101,10 +101,6 @@ Enterprise platforms delivered for Saudi Arabia's leading brands — explore the
   <img src="https://raw.githubusercontent.com/emran-alhaddad/emran-alhaddad/output/github-snake-dark.svg" alt="Contribution snake animation"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emran-alhaddad&theme=onedark&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-</p>
-
 ---
 
 ## `> echo "let's build"`
