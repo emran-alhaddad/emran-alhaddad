@@ -35,7 +35,7 @@ I'm a Jeddah-based **Technical Project Manager & Senior Backend Engineer** shipp
 
 - 🔭 **Now:** Technical PM & Senior Backend Engineer @ [Brackets Technology](https://brackets-tech.com)
 - ⚙️ **I build:** scalable APIs, cloud infrastructure, and the systems that keep enterprise products fast and secure
-- 🏆 **Open source:** author of the [**Saudi Riyal Font**](https://github.com/emran-alhaddad/Saudi-Riyal-Font) — the official open-source font for the new Saudi Riyal symbol (136★, used across web, desktop & mobile)
+- 🏆 **Open source:** author of the [**Saudi Riyal Font**](https://github.com/emran-alhaddad/Saudi-Riyal-Font) — the official open-source font for the new Saudi Riyal symbol (used across web, desktop & mobile)
 - 🌐 **Bilingual:** Arabic (native) · English (professional) — I ship products in both, RTL-first
 - 🎓 **B.Sc. Software Engineering**, Taiz University (GPA 3.7)
 - 📫 **Reach me:** emran.alhaddad.dev@gmail.com
@@ -62,11 +62,12 @@ I'm a Jeddah-based **Technical Project Manager & Senior Backend Engineer** shipp
 
 | Project | What it is | Stars |
 |---|---|:---:|
-| 🏛️ [**Saudi Riyal Font**](https://github.com/emran-alhaddad/Saudi-Riyal-Font) | Official open-source font for the Saudi Riyal currency symbol — cross-platform (`woff` / `woff2` / `ttf`), NPM + CDN, private Unicode code point, OFL license | ![](https://img.shields.io/github/stars/emran-alhaddad/Saudi-Riyal-Font?style=flat-square&color=6366F1&labelColor=0e0c22&label=) |
-| 🔄 [**Statamic Content Sync**](https://github.com/emran-alhaddad/statamic-content-sync) | Export/import collections, taxonomies, navs, assets & globals with Git-style diffs, smart pickers, and CLI automation | ![](https://img.shields.io/github/stars/emran-alhaddad/statamic-content-sync?style=flat-square&color=6366F1&labelColor=0e0c22&label=) |
-| 🛡️ [**Statamic GraphQL Protect**](https://github.com/emran-alhaddad/statamic-graphql-protect) | Adds query depth/complexity limits and access control to harden Statamic GraphQL endpoints | ![](https://img.shields.io/github/stars/emran-alhaddad/statamic-graphql-protect?style=flat-square&color=6366F1&labelColor=0e0c22&label=) |
+| 🏛️ [**Saudi Riyal Font**](https://github.com/emran-alhaddad/Saudi-Riyal-Font) | Official open-source font for the Saudi Riyal currency symbol — cross-platform (`woff` / `woff2` / `ttf`), NPM + CDN, private Unicode code point, OFL 1.1 | ![](https://img.shields.io/github/stars/emran-alhaddad/Saudi-Riyal-Font?style=flat-square&color=6366F1&labelColor=0e0c22&label=) |
+| 📓 [**Statamic Logbook**](https://github.com/emran-alhaddad/statamic-logbook) | System logs and user audit logs stored in your own database, with a full Control Panel UI — filtering, analytics, CSV export and dashboard widgets | ![](https://img.shields.io/github/stars/emran-alhaddad/statamic-logbook?style=flat-square&color=6366F1&labelColor=0e0c22&label=) |
+| 🤝 [**LinkedIn Invites Helper**](https://github.com/emran-alhaddad/linkedin-invites-helper) | Browser extension adding one-click **Accept all** / **Ignore all** to LinkedIn's invitation manager | ![](https://img.shields.io/github/stars/emran-alhaddad/linkedin-invites-helper?style=flat-square&color=6366F1&labelColor=0e0c22&label=) |
 | 🖼️ [**Smart Image Hotspots**](https://github.com/emran-alhaddad/smart-image-hotspots) | Statamic addon for percentage-based image hotspots with Antlers tags and GraphQL support | ![](https://img.shields.io/github/stars/emran-alhaddad/smart-image-hotspots?style=flat-square&color=6366F1&labelColor=0e0c22&label=) |
-| 📓 [**Statamic Logbook**](https://github.com/emran-alhaddad/statamic-logbook) | Activity & audit logging for the Statamic control panel | ![](https://img.shields.io/github/stars/emran-alhaddad/statamic-logbook?style=flat-square&color=6366F1&labelColor=0e0c22&label=) |
+| 🛡️ [**Statamic GraphQL Protect**](https://github.com/emran-alhaddad/statamic-graphql-protect) | Locks down Statamic's `/graphql` with token-based middleware and an optional IP allow-list — for headless front ends that must not expose a public API | ![](https://img.shields.io/github/stars/emran-alhaddad/statamic-graphql-protect?style=flat-square&color=6366F1&labelColor=0e0c22&label=) |
+| 🔄 [**Statamic Content Sync**](https://github.com/emran-alhaddad/statamic-content-sync) | Export/import collections, taxonomies, navs, assets & globals with Git-style diffs, smart pickers, and Artisan commands | ![](https://img.shields.io/github/stars/emran-alhaddad/statamic-content-sync?style=flat-square&color=6366F1&labelColor=0e0c22&label=) |
 | ⚡ [**QR Code Generator**](https://github.com/emran-alhaddad/qrcode-generator) | Free, instant QR code generation — drop a URL, get a code | ![](https://img.shields.io/github/stars/emran-alhaddad/qrcode-generator?style=flat-square&color=6366F1&labelColor=0e0c22&label=) |
 
 ---
