@@ -93,10 +93,6 @@ Enterprise platforms delivered for Saudi Arabia's leading brands — explore the
   <img src="https://streak-stats.demolab.com?user=emran-alhaddad&hide_border=true&background=0e0c22&stroke=6366F1&ring=6366F1&fire=8B8DF5&currStreakLabel=8B8DF5&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8a8a9e" alt="GitHub streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emran-alhaddad&bg_color=0e0c22&color=8B8DF5&line=6366F1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph"/>
-</p>
-
 <!-- ====================== SNAKE ====================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/emran-alhaddad/emran-alhaddad/output/github-snake-dark.svg" alt="Contribution snake animation"/>
